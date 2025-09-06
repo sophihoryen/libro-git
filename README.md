@@ -7,3 +7,5 @@
 \*git remoto agregar origen .....
 
 \*git merge prueba1
+
+/*chao
